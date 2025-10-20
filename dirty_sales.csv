@@ -1,0 +1,11 @@
+order_id,region,manager,date,sales,discount,transactions
+1001,North,Alice,2025-01-12,5200,10,45
+1002,South,Bob,2025-02-10,,5,62
+1003,East,Carol,2025-02-14,5400,,55
+1004,West,David,2025-03-01,12000,20,40
+1004,West,David,2025-03-01,12000,20,40
+1005,North,Alice,2025-04-02,999999,15,50
+1006,South,Bob,2025-04-10,5100,NaN,61
+1007,East,,2025-04-17,6100,10,59
+1008,West,David,2025-04-20,4700,5,41
+1009,  East  ,Carol,2025-05-01,6300,8,60
