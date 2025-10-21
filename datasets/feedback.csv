@@ -1,0 +1,24 @@
+customer_id,rating,comments
+101.0,5.0,Great service
+102.0,4.0,Satisfied
+103.0,,
+104.0,3.0,Average experience
+105.0,4.0,Good overall
+106.0,5.0,Excellent!
+107.0,2.0,Poor quality
+108.0,,N/A
+109.0,3.0,Okay
+110.0,4.0,Loved it
+111.0,5.0,
+112.0,1.0,Bad experience
+113.0,2.0,Fine
+114.0,,Good
+115.0,4.0,
+116.0,3.0,Average
+117.0,5.0,Perfect
+118.0,,N/A
+119.0,4.0,
+120.0,2.0,Okay again
+101.0,5.0,Great service
+104.0,3.0,Average experience
+,,
